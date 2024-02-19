@@ -4,6 +4,8 @@ Damn you, can't stand it, blow the earth up with one punch.
 
 くそったれ、我慢できずにワンパンチで地球を吹き飛ばす。
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iinolinux)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torvalds)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
